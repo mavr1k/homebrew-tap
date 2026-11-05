@@ -1,11 +1,11 @@
 cask "langcycle" do
-  version "1.1.1"
-  sha256 "ac3c7086c3db76bf9d0ab25c1dec2ad0bc66067a099afbefdc86fb7d438971bc"
+  version "1.1.2"
+  sha256 "8c26daf3e55dd6c785c7ddd359031e355d1e131c5dc2edba50e9d3af57375c65"
 
   url "https://github.com/mavr1k/LangCycle/releases/download/v#{version}/LangCycle-#{version}.zip"
   name "LangCycle"
   desc "Cycle keyboard layouts in a fixed order, with a large on-screen indicator"
-  homepage "https://github.com/mavr1k/LangCycle"
+  homepage "https://mavr1k.github.io/LangCycle/"
 
   depends_on macos: :ventura
 
