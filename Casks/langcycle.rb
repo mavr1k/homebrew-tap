@@ -1,6 +1,6 @@
 cask "langcycle" do
-  version "1.1.1"
-  sha256 "ac3c7086c3db76bf9d0ab25c1dec2ad0bc66067a099afbefdc86fb7d438971bc"
+  version "1.1.2"
+  sha256 "8f32e8e144600c8d6bde571548cf1db8e8f356f4f4125d73d59aec82cf015112"
 
   url "https://github.com/mavr1k/LangCycle/releases/download/v#{version}/LangCycle-#{version}.zip"
   name "LangCycle"
